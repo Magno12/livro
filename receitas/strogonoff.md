@@ -1,4 +1,4 @@
-## INGREDIENTES 
+## INGREDIENTES :chicken: 
 
 - 1 colher (sobremesa) de azeite
 - 400g de Tiras de Frango Na Receita Sadia
