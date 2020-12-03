@@ -2,7 +2,7 @@
 
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de frango
-- Pavê
-
+- :chicken: Strogonoff de frango 
+- :desert: Pavê 
+- :cake: Bolo de Caçarola
 
