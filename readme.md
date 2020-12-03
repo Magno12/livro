@@ -8,5 +8,5 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 - :desert: Pavê 
 - :cake: Bolo de Caçarola
 - :custard: Pudim
-- :cookies: Biscoito cookies
+- :cookie: Biscoito cookies
 
